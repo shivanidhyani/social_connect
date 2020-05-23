@@ -1,0 +1,28 @@
+{
+  "name": "social_connect",
+  "version": "1.0.0",
+  "description": "Social Connect is a software automation that helps in social media marketing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivanidhyani/social_connect.git"
+  },
+  "keywords": [
+    "Social",
+    "media",
+    "marketing",
+    "tool"
+  ],
+  "author": "Shivani Dhyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivanidhyani/social_connect/issues"
+  },
+  "homepage": "https://github.com/shivanidhyani/social_connect#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
