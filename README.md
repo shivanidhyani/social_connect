@@ -1,2 +1,2 @@
 # social_connect
-Social Connect is a social media marketing Software
+Social Connect is an Automation Software that helps in Social Media Marketing.
